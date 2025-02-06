@@ -1,0 +1,49 @@
+14.12.2024 11:42:20 - Interface done 'init' command: length=500, width=500
+14.12.2024 11:42:20 - Interface done 'g' command: h=100.000000, x0=50.000000, y0=50.000000, sigma_x=10.000000, sigma_y=10.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=100.000000, x0=100.000000, y0=100.000000, sigma_x=12.000000, sigma_y=8.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=90.000000, x0=150.000000, y0=150.000000, sigma_x=15.000000, sigma_y=10.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=80.000000, x0=200.000000, y0=200.000000, sigma_x=20.000000, sigma_y=15.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=75.000000, x0=250.000000, y0=250.000000, sigma_x=25.000000, sigma_y=20.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=70.000000, x0=300.000000, y0=300.000000, sigma_x=30.000000, sigma_y=25.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=65.000000, x0=350.000000, y0=350.000000, sigma_x=35.000000, sigma_y=30.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=60.000000, x0=400.000000, y0=400.000000, sigma_x=40.000000, sigma_y=35.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=55.000000, x0=450.000000, y0=450.000000, sigma_x=45.000000, sigma_y=40.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=50.000000, x0=25.000000, y0=25.000000, sigma_x=12.000000, sigma_y=18.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=45.000000, x0=75.000000, y0=75.000000, sigma_x=18.000000, sigma_y=22.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=40.000000, x0=125.000000, y0=125.000000, sigma_x=10.000000, sigma_y=16.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=35.000000, x0=175.000000, y0=175.000000, sigma_x=20.000000, sigma_y=25.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=30.000000, x0=225.000000, y0=225.000000, sigma_x=12.000000, sigma_y=12.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=25.000000, x0=275.000000, y0=275.000000, sigma_x=18.000000, sigma_y=20.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=20.000000, x0=325.000000, y0=325.000000, sigma_x=22.000000, sigma_y=18.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=15.000000, x0=375.000000, y0=375.000000, sigma_x=25.000000, sigma_y=25.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=10.000000, x0=425.000000, y0=425.000000, sigma_x=30.000000, sigma_y=30.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=5.000000, x0=475.000000, y0=475.000000, sigma_x=35.000000, sigma_y=35.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=100.000000, x0=50.000000, y0=450.000000, sigma_x=10.000000, sigma_y=10.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=95.000000, x0=100.000000, y0=400.000000, sigma_x=12.000000, sigma_y=12.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=90.000000, x0=150.000000, y0=350.000000, sigma_x=15.000000, sigma_y=15.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=85.000000, x0=200.000000, y0=300.000000, sigma_x=18.000000, sigma_y=18.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=80.000000, x0=250.000000, y0=250.000000, sigma_x=20.000000, sigma_y=20.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=75.000000, x0=300.000000, y0=200.000000, sigma_x=22.000000, sigma_y=22.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=70.000000, x0=350.000000, y0=150.000000, sigma_x=25.000000, sigma_y=25.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=65.000000, x0=400.000000, y0=100.000000, sigma_x=28.000000, sigma_y=28.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=60.000000, x0=450.000000, y0=50.000000, sigma_x=30.000000, sigma_y=30.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=40.000000, x0=200.000000, y0=250.000000, sigma_x=25.000000, sigma_y=30.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=60.000000, x0=25.000000, y0=275.000000, sigma_x=28.000000, sigma_y=22.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=55.000000, x0=75.000000, y0=250.000000, sigma_x=30.000000, sigma_y=25.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=50.000000, x0=125.000000, y0=225.000000, sigma_x=35.000000, sigma_y=28.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=45.000000, x0=175.000000, y0=200.000000, sigma_x=10.000000, sigma_y=10.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=40.000000, x0=225.000000, y0=175.000000, sigma_x=12.000000, sigma_y=12.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=35.000000, x0=275.000000, y0=150.000000, sigma_x=15.000000, sigma_y=15.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=30.000000, x0=325.000000, y0=125.000000, sigma_x=18.000000, sigma_y=18.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=25.000000, x0=375.000000, y0=100.000000, sigma_x=20.000000, sigma_y=20.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=20.000000, x0=425.000000, y0=75.000000, sigma_x=22.000000, sigma_y=22.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=15.000000, x0=475.000000, y0=50.000000, sigma_x=25.000000, sigma_y=25.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=10.000000, x0=25.000000, y0=25.000000, sigma_x=28.000000, sigma_y=28.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=5.000000, x0=75.000000, y0=450.000000, sigma_x=30.000000, sigma_y=30.000000
+14.12.2024 11:42:20 - Interface done 'g' command: h=100.000000, x0=125.000000, y0=400.000000, sigma_x=35.000000, sigma_y=35.000000
+14.12.2024 11:42:20 - Interface done 'generate' command.
+14.12.2024 11:42:21 - Interface done 'gnuplot' command with filename: plot
+14.12.2024 11:42:27 - Interface done 'write bmp' command with filename:picture.bmp
+14.12.2024 11:42:27 - Interface done 'bin' command with h = 2
+14.12.2024 11:42:27 - Interface done 'wave' command with pixel noise:6
+14.12.2024 11:42:28 - Interface done 'kmeans' coommand with k =5

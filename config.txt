@@ -1,0 +1,9 @@
+Log_Server = ON
+Log_Server_filename = log_server.txt
+Log_Client = ON
+Log_Client_filename = log_client.txt
+Use_file = ON
+Commands_file = commands.txt
+Default_field = 100 100
+Default_gauss = 140 40 60 8 11
+Noize = 6
